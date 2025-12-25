@@ -25,7 +25,7 @@
 2.  Click on the **"Pine Editor"** tab at the bottom of the screen.
 3.  Copy the entire content of the `.pine` script file and paste it into the Pine Editor.
 4.  Click **"Save"** and give the indicator a name (e.g., "Quantum Trend Matrix").
-5.  Click **"Add to Chart"** to see the indicator in action.
+5.  Click **"Add to Chart"** to see the indicator in action..
 
 ---
 
